@@ -2,8 +2,8 @@
 <h3 align="center">Data Scientist → building AI agents that actually do things</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN"><img src="img/linkedin.svg" /></a>
-  <a href="mailto:YOUR-EMAIL"><img src="img/email.svg" /></a>
+  <a href="https://www.linkedin.com/in/atidem/"><img src="img/linkedin.svg" /></a>
+  <a href="mailto:atidem08@gmail.com"><img src="img/email.svg" /></a>
   <img src="img/location.svg" />
   <img src="img/remote.svg" />
 </p>
@@ -22,6 +22,8 @@
 **Languages & data**
 
 ![Python](img/python.svg)
+![C#](img/csharp.svg)
+![C++](img/cplusplus.svg)
 ![Pandas](img/pandas.svg)
 ![NumPy](img/numpy.svg)
 ![scikit-learn](img/scikit-learn.svg)
@@ -36,15 +38,22 @@
 **LLMs & agents**
 
 ![Claude API](img/claude-api.svg)
+![ChatGPT](img/chatgpt.svg)
+![LangChain](img/langchain.svg)
 ![LangGraph](img/langgraph.svg)
 ![MCP](img/mcp.svg)
 ![n8n](img/n8n.svg)
 ![RAG](img/rag.svg)
 
+**Vector databases**
+
+![FAISS](img/faiss.svg)
+![Pinecone](img/pinecone.svg)
+![Chroma](img/chroma.svg)
+
 **Tooling**
 
 ![Docker](img/docker.svg)
-![DVC](img/dvc.svg)
 ![Git](img/git.svg)
 ![Linux](img/linux.svg)
 
