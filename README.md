@@ -72,4 +72,4 @@
 
 ---
 
-<p align="center"><i>Data scientist by training, agent builder by choice.</i></p>
+<p align="center"><i>Still learning, always building.</i></p>
